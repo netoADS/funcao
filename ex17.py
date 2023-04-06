@@ -7,4 +7,4 @@ def gerar_senha(tamanho=8):
     return senha
     
 senha = gerar_senha()
-print('A senha gerada é:', senha)
+print('A senha gerada é: ', senha)
