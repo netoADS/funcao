@@ -6,4 +6,4 @@ def ol(lista):
     return lista
     
 lista = [5,2,9,1,7]
-print('a lista ordenada é:', ol(lista))
+print('a lista ordenada é:', ol(lista))#

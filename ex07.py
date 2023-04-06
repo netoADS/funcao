@@ -4,4 +4,4 @@ def lista_soma(lst):
         s += e
     return s
     
-print(lista_soma([5,4,3]))
+print(lista_soma([5,4,3]))#

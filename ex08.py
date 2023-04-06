@@ -20,4 +20,4 @@ for i in range(len(dt)):
     if result == rr[i]:
         print('ok')
     else:
-        print('Falha')
+        print('Falha')#

@@ -5,4 +5,4 @@ def cm(notas):
     
 notas = [7.5, 8.0, 6.5, 9.0]
 media = cm(notas)
-print('a média é:', media)
+print('a média é:', media)#

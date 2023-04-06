@@ -11,4 +11,4 @@ texto = 'Socorram me subi no onibus em Marrocos'
 if vp(texto):
     print(texto, 'é um palíndromo.')
 else:
-    print(texto, 'não é um palíndromo')
+    print(texto, 'não é um palíndromo')#

@@ -12,4 +12,4 @@ numero = 53
 if vp(numero):
     print(numero, 'é primo')
 else:
-    print(numero,'não é primo')
+    print(numero,'não é primo')#

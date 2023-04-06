@@ -8,3 +8,4 @@ def gerar_senha(tamanho=8):
     
 senha = gerar_senha()
 print('A senha gerada é: ', senha)
+#

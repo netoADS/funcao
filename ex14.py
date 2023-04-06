@@ -9,4 +9,4 @@ raiz = crq(numero)
 print('a raiz quadrada de', numero, 'é', raiz)
 # abs usando para mostrar o valor absoluto de um número
 #exemplo abaixo
-print(abs(-5))
+print(abs(-5))#

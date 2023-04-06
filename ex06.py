@@ -4,4 +4,4 @@ def funcao_detecta(n):
     else:
         return "É ímopar"
         
-print(funcao_detecta(int(input("Entre com um número: "))))
+print(funcao_detecta(int(input("Entre com um número: "))))#

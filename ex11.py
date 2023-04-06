@@ -6,4 +6,4 @@ def cf(numero):
 
 numero = 5
 fatorial = cf(numero)
-print('o fatorial de', numero, 'é', fatorial)
+print('o fatorial de', numero, 'é', fatorial)#
